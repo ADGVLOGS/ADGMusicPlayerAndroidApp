@@ -1,4 +1,4 @@
-<img src="https://i.pcmag.com/imagery/lineups/01peUn6ncZ6gL0dEpO6rsW0-1.1569492716.fit_lim.size_1600x900.jpg" style="width:50;">
+<img src="https://i.pcmag.com/imagery/lineups/01peUn6ncZ6gL0dEpO6rsW0-1.1569492716.fit_lim.size_1600x900.jpg" style="width:50; height:100;">
 
 
 # ADGMusicPlayerAndroidApp
