@@ -1,7 +1,6 @@
-<img src="https://i.pcmag.com/imagery/lineups/01peUn6ncZ6gL0dEpO6rsW0-1.1569492716.fit_lim.size_1600x900.jpg" height="100px">
-
-
 # ADGMusicPlayerAndroidApp
+
+<img src="https://i.pcmag.com/imagery/lineups/01peUn6ncZ6gL0dEpO6rsW0-1.1569492716.fit_lim.size_1600x900.jpg" height="100px">
 
 [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/ADGVLOGS/ADGMusicPlayerAndroidApp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/ADGMusicPlayerAndroidApp/context:java)
 
